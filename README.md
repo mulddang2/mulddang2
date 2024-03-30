@@ -1,6 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:9796f0,100:fbc7d4&text=Hello🐇%20%20I'm%20Suzy.&reversal=false&fontColor=282829&fontSize=63" />
+<!-- 헤더 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:9796f0,100:fbc7d4&text=Hello🐇%20%20I'm%20Suzy.&reversal=false&fontColor=282829&fontSize=63" />
+</p>
 
 
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png"/>
+</a>
 
 <!--
 **mulddang2/mulddang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
