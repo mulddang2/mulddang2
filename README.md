@@ -6,7 +6,6 @@
 
 
 ## 🌐 Socials:
-- `이력서` https://my.surfit.io/w/1361261980
 - `포트폴리오` https://mulddang2.github.io/suzy-portfolio/
 - `블로그` https://mulddang2.github.io/blog/
 - `유튜브` https://www.youtube.com/@FE-suzy
